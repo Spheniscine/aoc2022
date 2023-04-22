@@ -1,5 +1,5 @@
 use aoc2022::{aoc_base::*};
 
 fn main() {
-    aoc2022::days::day7::Day7::run(InputSource::gmail(7));
+    aoc2022::days::day2::Day2::run(InputSource::gmail(2));
 }
